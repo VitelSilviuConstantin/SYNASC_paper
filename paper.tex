@@ -1,0 +1,87 @@
+%\documentclass[twoside]{article}
+\documentclass[10pt, conference, compsocconf]{IEEEtran}
+%
+\usepackage{makeidx}  % allows for indexgeneration
+\usepackage{longtable}
+\usepackage{url}
+\usepackage{algorithm}
+%\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+
+\usepackage{mathtools}
+
+\DeclarePairedDelimiter\abs{\lvert}{\rvert}%
+\DeclarePairedDelimiter\norm{\lVert}{\rVert}%
+
+% Swap the definition of \abs* and \norm*, so that \abs
+% and \norm resizes the size of the brackets, and the 
+% starred version does not.
+\makeatletter
+\let\oldabs\abs
+\def\abs{\@ifstar{\oldabs}{\oldabs*}}
+%
+\let\oldnorm\norm
+\def\norm{\@ifstar{\oldnorm}{\oldnorm*}}
+\makeatother
+
+\usepackage[hidelinks]{hyperref}
+\hypersetup{colorlinks=true,linktoc=all,allcolors=blue}
+
+\usepackage{array}
+\usepackage{longtable}
+
+% Metadata Information
+
+
+% Package to generate and customize Algorithm as per ACM style
+%\usepackage[ruled]{algorithm2e}
+%\SetAlFnt{\algofont}
+%\SetAlCapFnt{\algofont}
+%\SetAlCapNameFnt{\algofont}
+%\SetAlCapHSkip{0pt}
+%\IncMargin{-\parindent}
+%\renewcommand{\algorithmcfname}{ALGORITHM}
+
+\begin{document}
+	
+\title{Detecting Java Compiled Malware \\ using \\ Machine Learning Techniques}
+\author{
+
+	\IEEEauthorblockN{Gheorghe Balan\\}
+	\IEEEauthorblockA{"Al.I. Cuza" University - Faculty of Computer Science\\
+	Bitdefender Laboratory\\
+	Ia\c si, Rom\^ ania\\
+	Email: gbalan@bitdefender.com\\} 
+
+	\and
+	
+	\IEEEauthorblockN{Adrian \c Stefan Popescu\\}
+	\IEEEauthorblockA{"Al.I. Cuza" University - Faculty of Computer Science\\
+		Bitdefender Laboratory\\
+		Ia\c si, Rom\^ ania\\
+		Email: apopescu@bitdefender.com\\} \\
+
+
+	
+}
+
+\maketitle
+\input{abstract}
+\input{introduction}
+\input{related_work}
+\input{problem}
+\input{database}
+\input{results}
+\input{conclusion}
+
+\bibliographystyle{IEEEtran}
+\bibliography{paper}
+
+
+\end{document}
