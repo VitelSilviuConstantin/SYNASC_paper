@@ -1,10 +1,9 @@
 \begin{abstract}
-Malicious software using Java Language in order to implement the attack evolved rapidly in the past years. Initially we were used to find malicious Applets and exploitation methods to escape the controlled environments and to gain access to victims. Nowadays, as a react to the security measurements implemented in browsers, it is common to distribute the malware through spear-phishing emails.
+In recent years, VBA macro malware has been growing in popularity and so has the necessity of detecting it. While originally developed as a powerful scripting language to help users automate tasks and create macro-driven applications, it became a prevalent infection vector due to it’s extended capabilities, such as accessing the native Windows API. As a response to the growing threat of malicious macros, Microsoft has implemented several security features to prevent the execution of unwanted code. Nowadays, as a response to these measures, the attackers distribute the malicious documents through spear-phishing emails and use social engineering techniques in order to persuade the victim to enable the execution of the malicious macros.
 \par
-This paper presents two methods to detect the Java malicious code. One method is using an unsupervised machine learning algorithm while the other is using the Perceptron algorithm in order to shape a detection model. Combining their capacities we obtained a very good solution to detect Java threats in a proactive manner and to make sure that the known malware variants are still detected. The detection is focused on the class files as a response to the Malware as a Service concept.
-	
+This paper aims to explain the current state of detections regarding these types of malicious files and analyzes the possibility of improving existing macro detections via machine learning techniques. The new detection method is based around the Perceptron algorithm which builds a detection model focused on the properties of the macro code extracted from the VBA project of Office files. The paper also explores the advantages of using features that are not based around a particularity of the malicious file.
 \end{abstract}
 
 \begin{IEEEkeywords}
-	Machine learning, feature extraction, feature selection, java malware, compiled code, hierarchical clustering
+	Machine learning, feature extraction, feature selection, VBA macro, malicous macros
 \end{IEEEkeywords}
