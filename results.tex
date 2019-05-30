@@ -1,5 +1,13 @@
 \section{Results}
-
 \par
-Lorem ipsum, result1
+As we previously stated, we built our detection model around the Perceptron algorithm and our objective is to construct the model such that it represents a generic description of the chosen dataset.
 \par
+Before we present the results it is important to state that one of the main focuses of the training and testing phases is to achieve a very low false positives rate. This is especially important if we plan to further develop our model for commercial use. Consequently, we chose to use a modified version of the Perceptron algorithm name OSC, which incorporates an extra stage in the training algorithm which insures that all the samples marked as benign are correctly classified. Furthermore, the evaluation of a sample in the OSC algorithm is identical to the one used in the Perceptron algorithm which is an advantage from the standpoint of performance.
+\par
+In order to train our model we used two approaches: OSC and OSCu. The first approach involves using almost all our records. It is important to express the fact that our training data does not involve any inconsistencies. We trained our model for 500 iterations and we developed an accuracy of PLACEHOLDER ACCURACY and sensitivity of PLACEHOLDER SENSITIVITY. 
+\par
+The second method used, named, OSCu,  involved removing duplicate records from the entries used as inputs for the training algorithm. In this regard, if we encountered multiple records with the same feature vector (and labeled the same) we only kept one record.
+\par
+As a result of this filtering, the number of training samples was reduced to PLACEHOLDER FISIERE RAMASE (PLACEHOLDER CLEAN benign, PLACEHOLDER MALWARE malicious). This new model yielded an accuracy of PLACEHOLDER ACCURACY and precision of PLACEHOLDER PRECISION.
+\par
+We have also constructed a test set of samples in order to compare our two proposed models. We selected PLACEHOLDER benign samples and PLACEHOLDER malicious samples. On this set we observed a detection rate of PLACEHOLDER with a false positives rate of PLACEHOLDER.
