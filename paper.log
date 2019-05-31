@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.13)  30 MAY 2019 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.13)  31 MAY 2019 19:03
 entering extended mode
 **./paper.tex
 (paper.tex
@@ -859,7 +859,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 34.
 
-(paper.aux)
+(paper.aux
+
+LaTeX Warning: Label `tab:trainingresults' multiply defined.
+
+)
 \openout1 = `paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -876,8 +880,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
-
-(C:\Users\svitel\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+ (C:\Users\svitel\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count160
 \scratchdimen=\dimen262
@@ -929,29 +932,18 @@ LaTeX Info: Redefining \nameref on input line 51.
 \openout4 = `paper.out'.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
- (abstract.tex
-Missing character: There is no ‚ in font ptmb7t!
-Missing character: There is no Ä in font ptmb7t!
-Missing character: There is no ô in font ptmb7t!
-) (introduction.tex) (related_work.tex
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
+ (abstract.tex) (introduction.tex) (related_work.tex
 [1{C:/Users/svitel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
 )
 (problem.tex
 LaTeX Font Info:    Try loading font information for U+msa on input line 3.
@@ -976,31 +968,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--5
 
 LaTeX Warning: Citation `OSC' on page 2 undefined on input line 7.
 
-) (database.tex
+[2]) (database.tex
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
- [2]) (results.tex
-Underfull \hbox (badness 1728) in paragraph at lines 11--12
-[]\OT1/ptm/m/n/10 As a re-sult of this fil-ter-ing, the num-ber of train-
- []
-
-
-Underfull \hbox (badness 1701) in paragraph at lines 11--12
-\OT1/ptm/m/n/10 RA-MASE (PLACE-HOLDER CLEAN be-nign, PLACE-
- []
-
-) (conclusion.tex
+) (results.tex) (conclusion.tex [3]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
- [3]) (paper.bbl
+) (paper.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 26--30
 [][]$\OT1/ptm/m/n/9 https : / / cloudblogs . microsoft . com / microsoftsecure 
 / 2017 / 04 / 20 /
@@ -1027,36 +1009,42 @@ Before submitting the final camera ready copy, remember to:
 [4
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
  (paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
 Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: 9EC8110B781DF9050F06566B8A32F764;344.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
  ) 
 Here is how much of TeX's memory you used:
- 28207 strings out of 493312
- 688097 string characters out of 3138895
- 862963 words of memory out of 3000000
- 31251 multiletter control sequences out of 15000+200000
+ 28211 strings out of 493312
+ 688149 string characters out of 3138895
+ 864053 words of memory out of 3000000
+ 31253 multiletter control sequences out of 15000+200000
  46529 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,96p,1159b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,12n,96p,1366b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi
-8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (4 pages, 95682 bytes).
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/urw/times/utmri8a.pfb>
+Output written on paper.pdf (4 pages, 122634 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
