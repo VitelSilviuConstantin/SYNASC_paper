@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.13)  28 JUL 2019 15:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.13)  5 AUG 2019 00:08
 entering extended mode
 **./paper.tex
 (paper.tex
@@ -715,20 +715,45 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \extratabsurround=\skip54
 \backup@length=\skip55
 ))
+(C:\Users\svitel\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count146
+\lst@gtempboxa=\box47
+\lst@token=\toks42
+\lst@length=\count147
+\lst@currlwidth=\dimen193
+\lst@column=\count148
+\lst@pos=\count149
+\lst@lostspace=\dimen194
+\lst@width=\dimen195
+\lst@newlines=\count150
+\lst@lineno=\count151
+\lst@maxwidth=\dimen196
+
+(C:\Users\svitel\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count152
+\lst@skipnumbers=\count153
+\lst@framebox=\box48
+)
+(C:\Users\svitel\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
 (C:\Users\svitel\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mathtools.sty
 Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count146
-\calc@Bcount=\count147
-\calc@Adimen=\dimen193
-\calc@Bdimen=\dimen194
+\calc@Acount=\count154
+\calc@Bcount=\count155
+\calc@Adimen=\dimen197
+\calc@Bdimen=\dimen198
 \calc@Askip=\skip56
 \calc@Bskip=\skip57
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count148
+\calc@Ccount=\count156
 \calc@Cskip=\skip58
 )
 (C:\Users\svitel\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mhsetup.sty
@@ -738,15 +763,15 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count149
-\l_MT_multwidth_dim=\dimen195
+\g_MT_multlinerow_int=\count157
+\l_MT_multwidth_dim=\dimen199
 \origjot=\skip59
-\l_MT_shortvdotswithinadjustabove_dim=\dimen196
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen197
-\l_MT_above_intertext_sep=\dimen198
-\l_MT_below_intertext_sep=\dimen199
-\l_MT_above_shortintertext_sep=\dimen256
-\l_MT_below_shortintertext_sep=\dimen257
+\l_MT_shortvdotswithinadjustabove_dim=\dimen256
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen257
+\l_MT_above_intertext_sep=\dimen258
+\l_MT_below_intertext_sep=\dimen259
+\l_MT_above_shortintertext_sep=\dimen260
+\l_MT_below_shortintertext_sep=\dimen261
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
@@ -804,14 +829,14 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen258
-\Hy@linkcounter=\count150
-\Hy@pagecounter=\count151
+\@linkdim=\dimen262
+\Hy@linkcounter=\count158
+\Hy@pagecounter=\count159
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count152
+\Hy@SavedSpaceFactor=\count160
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -823,12 +848,12 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count153
+\c@Hy@tempcnt=\count161
 LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen259
-\Fld@menulength=\count154
-\Field@Width=\dimen260
-\Fld@charsize=\dimen261
+\XeTeXLinkMargin=\dimen263
+\Fld@menulength=\count162
+\Field@Width=\dimen264
+\Fld@charsize=\dimen265
 Package hyperref Info: Hyper figures OFF on input line 6358.
 Package hyperref Info: Link nesting OFF on input line 6363.
 Package hyperref Info: Hyper index ON on input line 6366.
@@ -838,17 +863,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count155
-\c@Item=\count156
-\c@Hfootnote=\count157
+\Hy@abspage=\count163
+\c@Item=\count164
+\c@Hfootnote=\count165
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count158
-\c@bookmark@seq@number=\count159
+\Fld@listcount=\count166
+\c@bookmark@seq@number=\count167
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -857,39 +882,39 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip60
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 34.
+Package hyperref Info: Option `colorlinks' set `true' on input line 35.
 
 (paper.aux)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
 
 (C:\Users\svitel\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count160
-\scratchdimen=\dimen262
-\scratchbox=\box47
-\nofMPsegments=\count161
-\nofMParguments=\count162
-\everyMPshowfont=\toks42
-\MPscratchCnt=\count163
-\MPscratchDim=\dimen263
-\MPnumerator=\count164
-\makeMPintoPDFobject=\count165
-\everyMPtoPDFconversion=\toks43
+\scratchcounter=\count168
+\scratchdimen=\dimen266
+\scratchbox=\box49
+\nofMPsegments=\count169
+\nofMParguments=\count170
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count171
+\MPscratchDim=\dimen267
+\MPnumerator=\count172
+\makeMPintoPDFobject=\count173
+\everyMPtoPDFconversion=\toks44
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -908,28 +933,29 @@ ABD: EveryShipout initializing macros
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
- on input line 51.
+ on input line 96.
 
-\AtBeginShipoutBox=\box48
-Package hyperref Info: Link coloring ON on input line 51.
+\c@lstlisting=\count174
+\AtBeginShipoutBox=\box50
+Package hyperref Info: Link coloring ON on input line 96.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count166
+\c@section@level=\count175
 )
-LaTeX Info: Redefining \ref on input line 51.
-LaTeX Info: Redefining \pageref on input line 51.
-LaTeX Info: Redefining \nameref on input line 51.
+LaTeX Info: Redefining \ref on input line 96.
+LaTeX Info: Redefining \pageref on input line 96.
+LaTeX Info: Redefining \nameref on input line 96.
 
 (paper.out) (paper.out)
 \@outlinefile=\write4
 \openout4 = `paper.out'.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
  (abstract.tex) (introduction.tex
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
@@ -969,14 +995,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--3
 data-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
 [][][][]\OT1/ptm/m/n/8 https://www.cisco.com/c/dam/m/digital/elq-
  []
 
-[2]
 
-LaTeX Warning: Citation `OSC' on page 3 undefined on input line 7.
+LaTeX Warning: Citation `OSC' on page 3 undefined on input line 8.
 
 ) (database.tex
 Missing character: There is no ‚ in font ptmr7t!
@@ -985,7 +1010,27 @@ Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
-) (results.tex [3]) (conclusion.tex
+
+
+LaTeX Warning: Reference `code:featureextraction' on page 3 undefined on input 
+line 7.
+
+(C:\Users\svitel\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+(C:\Users\svitel\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 9.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 1789) in paragraph at lines 17--18
+\OT1/ptm/m/n/10 of the "Shell" com-mand, we can ex-tract the fea-ture
+ []
+
+[3]) (results.tex) (conclusion.tex [4]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
@@ -1004,28 +1049,39 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
- (paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
-Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: 9EC8110B781DF9050F06566B8A32F764;344.
+[5
 
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
+ (paper.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
+
+
+Package rerunfilecheck Warning: File `paper.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `paper.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  9EC8110B781DF9050F06566B8A32F764;344.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
  ) 
 Here is how much of TeX's memory you used:
- 28222 strings out of 493312
- 688273 string characters out of 3138895
- 864063 words of memory out of 3000000
- 31257 multiletter control sequences out of 15000+200000
- 47665 words of font info for 97 fonts, out of 3000000 for 9000
+ 30215 strings out of 493312
+ 717579 string characters out of 3138895
+ 1104866 words of memory out of 3000000
+ 33217 multiletter control sequences out of 15000+200000
+ 48396 words of font info for 100 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,96p,1312b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,12n,96p,1328b,1448s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
@@ -1033,13 +1089,13 @@ pe1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri
-8a.pfb>
-Output written on paper.pdf (4 pages, 143057 bytes).
+ogram Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utm
+r8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on paper.pdf (5 pages, 160095 bytes).
 PDF statistics:
  125 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 69 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 34 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
